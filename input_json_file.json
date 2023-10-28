@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "salary": 80000
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "position": "Data Scientist",
+      "department": "Data Science",
+      "salary": 85000
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "position": "Marketing Manager",
+      "department": "Marketing",
+      "salary": 75000
+    }
+  ],
+  "company": {
+    "name": "TechCorp",
+    "location": "Silicon Valley",
+    "founded": 2005,
+    "CEO": "Eve Johnson"
+  }
+}
